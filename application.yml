@@ -5,6 +5,6 @@ info:
   spring:
       config:
           activate:
-              on-profile ; default
+              on-profile : default
 SALT_KEY : Data_Security
 OWNER_PASSWORD : DmiN
